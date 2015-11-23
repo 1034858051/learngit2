@@ -2,4 +2,8 @@ wsjssaaaa
 sssss
 qqqqqq
 aaaaaa
-chongtu1
+<<<<<<< HEAD
+chongtu
+=======
+chongtu
+>>>>>>> chongtu
